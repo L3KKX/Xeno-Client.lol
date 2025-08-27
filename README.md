@@ -1,4 +1,4 @@
-> # **Xeno-Client.lol**
+> # https://xenoaddon.netlify.app/ **Xeno-Client.lol**
 
 The best DonutSMP Addon
 > 
