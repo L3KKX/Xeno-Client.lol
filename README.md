@@ -23,4 +23,4 @@
 - 8   ‎ Finally, Hit Play and you should be done.
 
 > If you do not understand, You can watch the tutorial below
-# [![Watch the tutorial](https://xenoaddon.netlify.app/tutorial.png)](https://www.dropbox.com/scl/fi/w6qxmlo4nyb9unhajguqm/Xeno-Tutorial.mp4?rlkey=nohs2ofr2yw7qz00nmi8pypzc&st=mhcn2pg9&dl=1)
+ [![Watch the tutorial](https://xenoaddon.netlify.app/tutorial.png)](https://www.dropbox.com/scl/fi/axacqdgeqoc0uy8026lcw/Xeno-Tutorial.mp4?rlkey=d4gcgbscgw9xxgrjwp0ee1mpa&st=r47uz3on&dl=1)
