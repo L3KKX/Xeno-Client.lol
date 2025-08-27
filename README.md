@@ -1,5 +1,5 @@
-> # https://xenoaddon.netlify.app/ **Xeno-Client.lol**
+<p align="center">
+  <img src="https://xenoaddon.netlify.app/xenos.png" alt="Xeno Client Logo" width="200"/>
+</p>
 
-The best DonutSMP Addon
-> 
-# Source Code releasing Soon!
+# Xeno Client
